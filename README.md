@@ -1,1 +1,1 @@
-# cleaner
+bash installer.sh
