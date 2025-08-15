@@ -1,4 +1,5 @@
 #CARA PENGGUNAAN
+
 buka terminal
 
 chmod +x installer.sh
